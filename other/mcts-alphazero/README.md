@@ -1,0 +1,1 @@
+Follow-along of a video by [freeCodeCamp.org](https://www.youtube.com/watch?v=wuSQpLinRB4) on youtube.
